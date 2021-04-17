@@ -9,3 +9,4 @@ Analysis folder contains codes for the analysis performed both in Seurat and Sca
 Files folder contains:
 - documents necessary to run the pipeline (cell cycle gene list and immature/mature thyrocyte metadata info)
 - metadata document to get cell information (cell type, leiden clusters and UMAP coordinates)
+- normalized counts
