@@ -1,11 +1,11 @@
 ---
 title: "Mouse in vitro thyroid scRNA-seq analysis"
-subtitle: "Romitti et al 2021"
+subtitle: "Romitti, Eski et al., 2021"
 author: "Sema Elif Eski"
 date: '`r format(Sys.Date())`'
 output: html_document
 ---
-
+[Romitti, Eski et al., 2021 (doi:10.1101/2021.01.18.427103 )](https://www.biorxiv.org/content/10.1101/2021.01.18.427103v1)
 # Session Information
 ```{r}
 sessionInfo()
