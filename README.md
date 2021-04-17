@@ -2,6 +2,8 @@
 
 Analysis code provided for mouse in vitro thyroid scRNA-seq dataset [Romitti, Eski et al., 2021](https://www.biorxiv.org/content/10.1101/2021.01.18.427103v1)
 
+The data can also be accessed at [Shiny App](https://sumeet.shinyapps.io/mouse-thyroid-invitro/)
+
 Analysis folder contains codes for the analysis performed both in Seurat and Scanpy.
 
 Files folder contains:
